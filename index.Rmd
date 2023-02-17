@@ -1,0 +1,37 @@
+---
+title: "Tessa Code"
+image: "dolphin.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/TessaCode"
+  - label: Email
+    url: "mailto:tcode@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Tessa Code studies the effect of artificial light at night on the native fish species in Lake Washington.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. in Aquatic and Fisheries Sciences | September 2021 - Present
+
+**Santa Clara University** | Santa Clara, CA
+
+B.S. in Biology and Environmental Sciences | September 2009 - June 2013
+
+## Experience
+
+**US Geological Survey** | Biological Science Technician | May 2019 - Present
+
+**National Oceanic Atmospheric Administration** | Marine Debris Technician | July 2018 - November 2018
+
+**National Park Service** | Biological Science Technician | August 2014 - July 2018
