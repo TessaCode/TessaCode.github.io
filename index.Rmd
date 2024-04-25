@@ -2,10 +2,10 @@
 title: "Tessa Code"
 image: "dolphin.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: CV
+    url: "TCode_CV_20240425.pdf"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Z9FRsagAAAAJ&hl=en"
   - label: GitHub
     url: "https://github.com/TessaCode"
   - label: Email
@@ -37,3 +37,9 @@ B.S. in Biology and Environmental Sciences | September 2009 - June 2013
 **National Oceanic Atmospheric Administration** | Marine Debris Technician | July 2018 - November 2018
 
 **National Park Service** | Biological Science Technician | August 2014 - July 2018
+
+## Outreach
+
+[WALPA Waterline newsletter](https://www.walpa.org/waterline/june-2023/quantifying-how-artificial-light-at-night-in-lake-washington-increases-predation-risk-for-juvenile-salmon/)
+
+[Engage Blog Post](https://www.engage-science.space/blog/2021/6/6/889plrw0d1luytwp1tcrbm0rl3haaa-4zmsk-cpghn-nxp8t-x9ehy-x7fdm-3c5ey-9rhns-e4r77-fpb73-tdtrm-hxyrc-ntsnx-smm4d-ghncj-cwf9b-6crah-dbagp)
