@@ -1,6 +1,6 @@
 ---
 title: "Tessa Code"
-image: "dolphin.jpg"
+image: "TCode_Headshot.jpg"
 links:
   - label: CV
     url: "TCode_CV_20240425.pdf"
@@ -42,4 +42,8 @@ B.S. in Biology and Environmental Sciences | September 2009 - June 2013
 
 [WALPA Waterline newsletter](https://www.walpa.org/waterline/june-2023/quantifying-how-artificial-light-at-night-in-lake-washington-increases-predation-risk-for-juvenile-salmon/)
 
-[Engage Blog Post](https://www.engage-science.space/blog/2021/6/6/889plrw0d1luytwp1tcrbm0rl3haaa-4zmsk-cpghn-nxp8t-x9ehy-x7fdm-3c5ey-9rhns-e4r77-fpb73-tdtrm-hxyrc-ntsnx-smm4d-ghncj-cwf9b-6crah-dbagp)
+[Engage blog post](https://www.engage-science.space/blog/2021/6/6/889plrw0d1luytwp1tcrbm0rl3haaa-4zmsk-cpghn-nxp8t-x9ehy-x7fdm-3c5ey-9rhns-e4r77-fpb73-tdtrm-hxyrc-ntsnx-smm4d-ghncj-cwf9b-6crah-dbagp)
+
+[Seattle Rotary Club marine plastics presentation](https://www.youtube.com/watch?v=m1VE4w_f-wc)
+
+[NOAA Marine Debris story map](https://noaa.maps.arcgis.com/apps/MapTour/index.html?appid=852aeea527834cfbbc53248850065b4a)
